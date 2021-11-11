@@ -1,9 +1,13 @@
-# Primer mini Proyecto - Maquetación Página web con todo lo aprendido en clase.
+### `Primer mini Proyecto - Maquetación Página web con todo lo aprendido en clase.`
 
-## _Integrantes_
+#### _Integrantes_
 
 * JhanChris11 
 * JulianReyes
 * JuanMa
 * emi
 * KENIELGD
+
+#### `Enlace diseño landing page Figma`
+
+> enlace
